@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\ejercicio_aspnet_cors\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\ejercicio_aspnet_cors\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\ejercicio_aspnet_cors\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|c:\\users\\dieoj\\onedrive\\documentos\\repositorios\\ejercicio_aspnet_cors\\webapplication1\\webapplication1\\documentacionleeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60853621-BCC8-44F5-84A5-8084A4C21E97}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\documentacionleeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentacionLeeme.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\DocumentacionLeeme.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DocumentacionLeeme.cs",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\DocumentacionLeeme.cs",
+              "RelativeToolTip": "WebApplication1\\DocumentacionLeeme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T02:20:46.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAWwCMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:47:45.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:47:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dieoj\\OneDrive\\Documentos\\REPOSITORIOS\\ejercicio_aspnet_cors\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:47:00.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

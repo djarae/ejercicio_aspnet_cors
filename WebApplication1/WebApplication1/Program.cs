@@ -7,6 +7,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+// Correccion problema cors!
 builder.Services.AddCors(options =>
     {
         options.AddPolicy("NuevaPolitica", app =>
@@ -30,6 +32,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// Correccion problema cors!
 app.UseCors("NuevaPolitica");
 
 app.UseHttpsRedirection();

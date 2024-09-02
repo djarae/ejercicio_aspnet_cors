@@ -22,7 +22,7 @@ namespace WebApplication1.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
-            System.Diagnostics.Debug.WriteLine("pruebiña");
+            System.Diagnostics.Debug.WriteLine("pruebiña actualizadiña");
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
